@@ -15,7 +15,6 @@ RUN apt-get update \
     libncursesw5-dev \
     libreadline-dev \
     libsqlite3-dev \
-    libssl-dev \
     llvm \
     xz-utils \
     zlib1g-dev \
